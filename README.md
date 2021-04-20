@@ -1,2 +1,2 @@
 # SLU05
-SLU03 - Lisbon Academy Exercise
+WEEK03 - Lisbon Academy Exercise
